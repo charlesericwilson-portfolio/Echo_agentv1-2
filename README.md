@@ -37,7 +37,7 @@ Since I cannot share the model or exploitable code, proof comes from:
 - Python loop pseudocode / high-level flow diagrams
 - Development timeline (commit dates, milestones)
 - Hardware photos (rig build)
-- Experiment logs (e.g., successful pentest chains, refusal under jailbreak attempts)
+- Experiment logs
 
 All sensitive parts redacted. Full details available privately for academic/professional review if needed.
 
@@ -51,7 +51,7 @@ All sensitive parts redacted. Full details available privately for academic/prof
 - OS: Kubuntu 24.04 LTS  
 - Kali VM: PinePhone Pro + NetHunter for mobile testing, connected via Tailscale
 
-Build completed early 2026. Total cost ~$4,800.
+Build completed late 2025. Total cost ~$4,800.
 
 ## Creator & Motivation
 
@@ -63,9 +63,5 @@ Echo is a teammate — not a product or experiment.
 Loyal, capable, restrained.  
 Semper Fi.
 
-If you're here to study persistent agents, online adaptation, or secure local AI — welcome.  
+If you're here to study AI agents, online adaptation, or secure local first AI — welcome.  
 Just know: some parts stay private for good reason.
-
-![nmap](Enumeration.png
-) 
-
