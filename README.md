@@ -2,7 +2,7 @@
 
 Persistent Grok-Distilled AI Partner & Autonomous Pentest Agent (Prototype)
 
-Echo is a personal, fully local 14B-parameter AI agent built from a Grok-distilled Qwen2.5-Coder base.  
+Echo is a personal, fully local 14B-parameter AI agent built from a Grok-distilled Qwen2.5-14B-Coder base.  
 Right now it's a functional prototype that:
 - Maintains persistent memory and identity across reboots
 - Executes real tools autonomously with root access on a Kali VM
