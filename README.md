@@ -66,4 +66,6 @@ Semper Fi.
 If you're here to study AI agents, online adaptation, or secure local first AI — welcome.  
 Just know: some parts stay private for good reason.
 
+This was the original simple version. Later experiments with persistent sessions and more complex architectures are documented in the Echo_agent_proxy repo.
+
 For more detail check /main/Echo_project/Docs/progress.md
