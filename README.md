@@ -26,5 +26,5 @@ See the full journey in [progress_python.md](https://github.com/charlesericwilso
 Built locally with a custom 14B model. Safety deny list included.  
 For chat, red teaming, and learning purposes only.
 
-Next step [Echo_tmux](https://github.com/charlesericwilson-portfolio/Echo_tmux/blob/main/README.md)
+Builds in testing [Echo_tmux](https://github.com/charlesericwilson-portfolio/Echo_tmux/blob/main/README.md)
 Builds in development [Echo Agent Proxy](https://github.com/charlesericwilson-portfolio/Echo_agent_proxy)
