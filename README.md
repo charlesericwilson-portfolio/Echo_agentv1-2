@@ -10,6 +10,7 @@ Current recommended version: **Rust** (much faster and cleaner than the original
 
 - **How do I try it?**  
   Go to the [Rust version](https://github.com/charlesericwilson-portfolio/Echo_agent/blob/main/Echo_project/echo_rust_wrapper/README.md) — build and run in under 2 minutes.
+
   Option 2 download the [python_wrapper](https://github.com/charlesericwilson-portfolio/Echo_agent1-2/blob/main/Echo_project/python_wrapper/Echo_custom.py) read the [README.md](https://github.com/charlesericwilson-portfolio/Echo_agent1-2/blob/main/Echo_project/python_wrapper/README.md) takes just a minute.
 
 - **Does it work?**  
