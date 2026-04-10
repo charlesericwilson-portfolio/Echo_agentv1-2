@@ -29,4 +29,4 @@ Built locally with a custom 14B model. Safety deny list included.
 For chat, red teaming, and learning purposes only.
 
 Builds in testing [Echo_tmux](https://github.com/charlesericwilson-portfolio/Echo_tmux/blob/main/README.md)
-Builds in development [Echo Agent Proxy](https://github.com/charlesericwilson-portfolio/Echo_agent_proxy), [Echo rust agent proxy](https://github.com/charlesericwilson-portfolio/Echo_rust_agent_proxyv5/tree/main)
+Builds in development [Echo Agent Proxy](https://github.com/charlesericwilson-portfolio/Echo_agent_proxy), [Echo rust agent proxyv5](https://github.com/charlesericwilson-portfolio/Echo_rust_agent_proxyv5/tree/main)
